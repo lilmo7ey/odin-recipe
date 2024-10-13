@@ -1,2 +1,2 @@
-# odin-recipe
+
 food recipes
