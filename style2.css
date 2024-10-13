@@ -1,0 +1,21 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+    color: rgb(255, 255, 255);
+    
+    background-image: url(18074-marinated-flank-steak-DDMFS-4x3-38438e639fec48738b507845bbe63300.webp);
+    height: 100%;
+}
+.xxx {
+    color: rgb(0, 0, 0);
+    font-size: 48px;
+    text-align: center;
+    font-weight: bold;
+}
+.xxx-style {
+    color: rgb(255, 0, 0);
+    font-size: 22px;
+    
+
+}
+
