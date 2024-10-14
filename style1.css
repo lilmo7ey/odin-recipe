@@ -8,10 +8,23 @@ font-size: 22px;
 text-align: center;
 font-weight: bold;
 }
+p { 
+    font-size: 18px;
+    font-weight: bold;
+    color: red;
+}
 
 .xxx {
     color: rgb(255, 0, 0);
+    padding: 8px    24px;
+    border: 3px solid red;
+    margin: 18px;
+    text-align: center;
+
 }
+.xxx button {color: white;
+background-color: burlywood;}
+
 
 
 

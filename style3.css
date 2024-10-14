@@ -1,14 +1,27 @@
+* {
+    box-sizing: border-box;
+   
+}
+
 body {
     font-family:Arial, Helvetica, sans-serif;
     color: #ffffff;
     background-color: #40534C;
 
+    padding: 20px;
+ 
+
 }
    
 img {
-    float: right;
+    
+    width: 640px;
     height: auto;
-    width: 645px;
+    border:  8px solid rgb(0, 0, 0);
+    margin: auto;
+    
+   
+   
 }
 
 .title {
